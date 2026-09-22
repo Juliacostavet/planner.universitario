@@ -1,0 +1,13 @@
+{
+  "name": "planner-universitario",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page do Planner Universitário — site estático pronto para GitHub Pages / Netlify.",
+  "scripts": {
+    "dev": "serve -l 3000 .",
+    "start": "serve -l 3000 ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
